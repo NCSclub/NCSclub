@@ -36,3 +36,10 @@ Our goal is to create a space where we learn and grow together in computer scien
 ***💌 You can join Our Community Spaces !*** 
 
 https://linktr.ee/ncs_club
+
+<h3 align="left">Connect with us:</h3>
+<p align="left">
+<a href="https://instagram.com/ncs._club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ncs._club" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/HVDBMYsSqH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HVDBMYsSqH" height="30" width="40" /></a>
+</p>
+
